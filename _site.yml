@@ -1,0 +1,8 @@
+name: "Wen Lu"
+navbar:
+  title: "Wen Lu"
+  left:
+    - text: "Homework 1"
+      href: HW01dynamicdocument.html
+    - text: "Homework 2"
+      href: about.rmd
