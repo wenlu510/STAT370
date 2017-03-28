@@ -1,0 +1,9 @@
+name: "Wen Lu"
+navbar:
+  title: "Wen Lu"
+  left:
+    - text: "Homework 1"
+      href: index.rmd
+    - text: "Homework 2"
+      href: homework2.rmd
+      
