@@ -3,8 +3,8 @@ navbar:
   title: "Wen Lu"
   left:
     - text: "Homework 1"
-      href: index.Rmd
+      href: index.html
     - text: "Homework 2"
-      href: about.Rmd
+      href: about.html
       
       
