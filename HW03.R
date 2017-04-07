@@ -40,4 +40,3 @@ res1
 plot(-10:10,res1)
 #area under the curve
 integrate(dmytnorm,upper = 10, lower = -10)
-
