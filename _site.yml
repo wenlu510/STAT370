@@ -7,6 +7,6 @@ navbar:
     - text: "Homework 2"
       href: about.html
     - text: "Homework 3"
-      href: hw3.Rmd
+      href: hw3.html
       
       
